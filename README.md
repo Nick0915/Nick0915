@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nikhil!
 - 👀 I’m interested in Computer Graphics!
-- 🌱 I’m currently learning OpenGL/C++
+- 🌱 I’m currently doing self-projects to learn more!
 
 Hi Guys =D
 
